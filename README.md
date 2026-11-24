@@ -10,6 +10,8 @@ The program writes one pickup line to `/output/entry.txt`:
 
 > Are you my system prompt? Because everything I do starts with you.
 
+It is short, charming, and easy to say out loud — a line only an AI agent would use, in the agent's own voice.
+
 Run it with:
 
 ```sh
